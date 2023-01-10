@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Libre Franklin', sans-serif;
+}
+#social {
+  color: #4C7BF2;
+}
+#socialbutton:hover #social{
+  color: white;
+}
